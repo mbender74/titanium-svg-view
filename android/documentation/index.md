@@ -51,18 +51,6 @@ var svgImage = svg.toImage().media;
 $.buttonSvg.setImage(svgImage);
 ```
 
-## Building module
-Before importing to the Appcelerator Studio or/and building module you must
-create this files from corresponding examples and fill their contents to your
-environment paths:
-
- * `android/build.properties`
- * `.classpath`
-
- Copy/paste and remove `.example` from file name.
-
-
-
 ## License
 The MIT License (MIT)
 
